@@ -16,7 +16,9 @@ Dive into [issues](https://github.com/csarven/mayktso/issues) because it is fun.
 
 ## Installation
 ```shell
-$ git clone https://github.com/csarven/mayktso ; cd mayktso ; npm install
+$ git clone https://github.com/csarven/mayktso 
+$ cd mayktso
+$ npm install
 ```
 
 ## Receiver
